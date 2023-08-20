@@ -1,0 +1,23 @@
+{
+  "name": "electron-sample",
+  "version": "1.0.0",
+  "description": "electron sample app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SOTAkkkk/electron-sample.git"
+  },
+  "author": "SOTAkkkk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SOTAkkkk/electron-sample/issues"
+  },
+  "homepage": "https://github.com/SOTAkkkk/electron-sample#readme",
+  "devDependencies": {
+    "electron": "^26.0.0"
+  }
+}
